@@ -1,3 +1,4 @@
+sudo su
 cd /home/ec2-user/jenkins
 mkdir Dir_from_jenkins_job
 cd Dir_from_jenkins_job
